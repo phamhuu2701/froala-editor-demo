@@ -1,0 +1,7 @@
+{
+  "main.js": "autojs/main.js",
+  "js/node_modules_web-vitals_dist_web-vitals_js.main.js": "autojs/node_modules_web-vitals_dist_web-vitals_js.main.js",
+  "assets/favicon.ico": "autoassets/favicon.ico",
+  "favicon.ico": "autofavicon.ico",
+  "index.html": "autoindex.html"
+}
